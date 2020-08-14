@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lQB6aKtLOskxYvTU5NYLmiph+z3iTLmMjBs3yarh+a2z/5upn/MdCDdUR5NXG6DRIRkYSrJ8tFfgRu4swXqvsA==",
+  "dgSpecHash": "a7LeIMY3S0rpYwL33vHj+2E9gDncyS7EJd8rsFNY5GFOifK99UVBqD9re8PqTCEz7BRUzviL1O0IkZVJk+4vLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\anmanca\\source\\repos\\MVCApp\\MVCApp\\MVCApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\anmanca\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

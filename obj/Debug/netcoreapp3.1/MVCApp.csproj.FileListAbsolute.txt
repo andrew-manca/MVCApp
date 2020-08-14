@@ -12,8 +12,6 @@ C:\Users\anmanca\source\repos\MVCApp\MVCApp\bin\Debug\netcoreapp3.1\MVCApp.Views
 C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.csprojAssemblyReference.cache
 C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.AssemblyInfoInputs.cache
 C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.AssemblyInfo.cs
-C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.csproj.CoreCompileInputs.cache
-C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.RazorAssemblyInfo.cache
 C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.RazorAssemblyInfo.cs
 C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.TagHelpers.input.cache
@@ -35,3 +33,6 @@ C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.dll
 C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.pdb
 C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.genruntimeconfig.cache
 C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.csproj.CopyComplete
+C:\Users\anmanca\source\repos\MVCApp\MVCApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.csproj.CoreCompileInputs.cache
+C:\Users\anmanca\source\repos\MVCApp\MVCApp\obj\Debug\netcoreapp3.1\MVCApp.MvcApplicationPartsAssemblyInfo.cache
