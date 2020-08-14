@@ -9,11 +9,11 @@ using System.Threading.Tasks;
     {
         public async Task<string> getTokenAsync()
         {
-            string tenantId = "";
-            string clientId = "";
-            string grantType = "cliet_credentials";
-            string clientSecret = "";
-            string resource = "management.api.com";
+            string tenantId = "{tenantId}";
+            string clientId = "{clientId}";
+            string grantType = "client_credentials";
+            string clientSecret = "{clientSecret}";
+            string resource = "https://management.azure.com/";
 
 
             string path = "https://login.microsoftonline.com/" + tenantId + "/oauth2/token";
@@ -31,6 +31,7 @@ using System.Threading.Tasks;
             HttpClient client = new HttpClient();
             var response = await client.SendAsync(request);
             var token = await JsonSerializer.DeserializeAsync<AuthResponseToken>(await response.Content.ReadAsStreamAsync());
+
 
             return token.access_token;
         }
